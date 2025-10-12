@@ -1,0 +1,1881 @@
+{
+  "type": "dir",
+  "name": "",
+  "slug": "",
+  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch",
+  "route": "/",
+  "index": {
+    "type": "file",
+    "name": "index",
+    "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch",
+    "route": "/",
+    "rel": "index.md"
+  },
+  "files": [
+    {
+      "type": "file",
+      "name": "home",
+      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch",
+      "route": "/home",
+      "rel": "home.md"
+    },
+    {
+      "type": "file",
+      "name": "detlef",
+      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Detlef Zeiler",
+      "route": "/detlef",
+      "rel": "detlef.md"
+    },
+    {
+      "type": "file",
+      "name": "julian",
+      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Julian Zeiler",
+      "route": "/julian",
+      "rel": "julian.md"
+    }
+  ],
+  "dirs": [
+    {
+      "type": "dir",
+      "name": "detlef",
+      "slug": "detlef",
+      "title": "Detlef",
+      "route": "/detlef",
+      "index": null,
+      "files": [
+        {
+          "type": "file",
+          "name": "deutsch",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Deutsch",
+          "route": "/detlef/deutsch",
+          "rel": "detlef/deutsch.md"
+        },
+        {
+          "type": "file",
+          "name": "geschichte",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Geschichte",
+          "route": "/detlef/geschichte",
+          "rel": "detlef/geschichte.md"
+        },
+        {
+          "type": "file",
+          "name": "impressum",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Impressum",
+          "route": "/detlef/impressum",
+          "rel": "detlef/impressum.md"
+        },
+        {
+          "type": "file",
+          "name": "jeremia",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jeremia",
+          "route": "/detlef/jeremia",
+          "rel": "detlef/jeremia.md"
+        },
+        {
+          "type": "file",
+          "name": "medien",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Medien",
+          "route": "/detlef/medien",
+          "rel": "detlef/medien.md"
+        },
+        {
+          "type": "file",
+          "name": "projekte",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Projekte",
+          "route": "/detlef/projekte",
+          "rel": "detlef/projekte.md"
+        }
+      ],
+      "dirs": [
+        {
+          "type": "dir",
+          "name": "deutsch",
+          "slug": "deutsch",
+          "title": "Deutsch",
+          "route": "/detlef/deutsch",
+          "index": null,
+          "files": [
+            {
+              "type": "file",
+              "name": "errterung",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Erörterung",
+              "route": "/detlef/deutsch/errterung",
+              "rel": "detlef/deutsch/errterung.md"
+            },
+            {
+              "type": "file",
+              "name": "essay-themen",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Essay-Themen",
+              "route": "/detlef/deutsch/essay-themen",
+              "rel": "detlef/deutsch/essay-themen.md"
+            },
+            {
+              "type": "file",
+              "name": "fremdenfeindlichkeit",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Fremdenfeindlichkeit",
+              "route": "/detlef/deutsch/fremdenfeindlichkeit",
+              "rel": "detlef/deutsch/fremdenfeindlichkeit.md"
+            },
+            {
+              "type": "file",
+              "name": "homo-faber",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Homo Faber",
+              "route": "/detlef/deutsch/homo-faber",
+              "rel": "detlef/deutsch/homo-faber.md"
+            },
+            {
+              "type": "file",
+              "name": "nayirah",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Nayirah",
+              "route": "/detlef/deutsch/nayirah",
+              "rel": "detlef/deutsch/nayirah.md"
+            },
+            {
+              "type": "file",
+              "name": "needful-things---in-einer-kleinen-stadt",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Needful Things - \"In einer kleinen Stadt\"",
+              "route": "/detlef/deutsch/needful-things---in-einer-kleinen-stadt",
+              "rel": "detlef/deutsch/needful-things---in-einer-kleinen-stadt.md"
+            },
+            {
+              "type": "file",
+              "name": "texterrterung",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Texterörterung",
+              "route": "/detlef/deutsch/texterrterung",
+              "rel": "detlef/deutsch/texterrterung.md"
+            },
+            {
+              "type": "file",
+              "name": "textinterpretation-1",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Textinterpretation",
+              "route": "/detlef/deutsch/textinterpretation-1",
+              "rel": "detlef/deutsch/textinterpretation-1.md"
+            },
+            {
+              "type": "file",
+              "name": "textinterpretation",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Textinterpretation (Beispiele)",
+              "route": "/detlef/deutsch/textinterpretation",
+              "rel": "detlef/deutsch/textinterpretation.md"
+            },
+            {
+              "type": "file",
+              "name": "versuch-einer-beschreibung-menschlicher-moral",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Versuch einer Beschreibung menschlicher Moral",
+              "route": "/detlef/deutsch/versuch-einer-beschreibung-menschlicher-moral",
+              "rel": "detlef/deutsch/versuch-einer-beschreibung-menschlicher-moral.md"
+            },
+            {
+              "type": "file",
+              "name": "versuch-einer-kurzen-beschreibung-einer-menschlichen-moral",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Versuch einer kurzen Beschreibung einer menschlichen Moral",
+              "route": "/detlef/deutsch/versuch-einer-kurzen-beschreibung-einer-menschlichen-moral",
+              "rel": "detlef/deutsch/versuch-einer-kurzen-beschreibung-einer-menschlichen-moral.md"
+            },
+            {
+              "type": "file",
+              "name": "vom-text-zum-schaubild",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Vom Text zum Schaubild",
+              "route": "/detlef/deutsch/vom-text-zum-schaubild",
+              "rel": "detlef/deutsch/vom-text-zum-schaubild.md"
+            }
+          ],
+          "dirs": [
+            {
+              "type": "dir",
+              "name": "essay-themen",
+              "slug": "essay-themen",
+              "title": "Essay Themen",
+              "route": "/detlef/deutsch/essay-themen",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "essay",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Essay",
+                  "route": "/detlef/deutsch/essay-themen/essay",
+                  "rel": "detlef/deutsch/essay-themen/essay.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "fremdenfeindlichkeit",
+              "slug": "fremdenfeindlichkeit",
+              "title": "Fremdenfeindlichkeit",
+              "route": "/detlef/deutsch/fremdenfeindlichkeit",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "armer-und-reicher-teufel",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Armer und reicher Teufel",
+                  "route": "/detlef/deutsch/fremdenfeindlichkeit/armer-und-reicher-teufel",
+                  "rel": "detlef/deutsch/fremdenfeindlichkeit/armer-und-reicher-teufel.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "needful-things---in-einer-kleinen-stadt",
+              "slug": "needful-things---in-einer-kleinen-stadt",
+              "title": "Needful Things In Einer Kleinen Stadt",
+              "route": "/detlef/deutsch/needful-things---in-einer-kleinen-stadt",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "in-einer-kleinen-stadt",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - In einer kleinen Stadt",
+                  "route": "/detlef/deutsch/needful-things---in-einer-kleinen-stadt/in-einer-kleinen-stadt",
+                  "rel": "detlef/deutsch/needful-things---in-einer-kleinen-stadt/in-einer-kleinen-stadt.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "in-einer-kleinen-stadt",
+                  "slug": "in-einer-kleinen-stadt",
+                  "title": "In Einer Kleinen Stadt",
+                  "route": "/detlef/deutsch/needful-things---in-einer-kleinen-stadt/in-einer-kleinen-stadt",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "in-einer-kleinen-stadt",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - In einer kleinen Stadt",
+                      "route": "/detlef/deutsch/needful-things---in-einer-kleinen-stadt/in-einer-kleinen-stadt/in-einer-kleinen-stadt",
+                      "rel": "detlef/deutsch/needful-things---in-einer-kleinen-stadt/in-einer-kleinen-stadt/in-einer-kleinen-stadt.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            },
+            {
+              "type": "dir",
+              "name": "textinterpretation",
+              "slug": "textinterpretation",
+              "title": "Textinterpretation",
+              "route": "/detlef/deutsch/textinterpretation",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "das-eiserne-kreuz",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Das Eiserne Kreuz (Autor: Heiner Müller)",
+                  "route": "/detlef/deutsch/textinterpretation/das-eiserne-kreuz",
+                  "rel": "detlef/deutsch/textinterpretation/das-eiserne-kreuz.md"
+                },
+                {
+                  "type": "file",
+                  "name": "ein-netter-kerl",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Ein netter Kerl  (Beispiel, Mittelstufe)",
+                  "route": "/detlef/deutsch/textinterpretation/ein-netter-kerl",
+                  "rel": "detlef/deutsch/textinterpretation/ein-netter-kerl.md"
+                },
+                {
+                  "type": "file",
+                  "name": "einige-beispiele",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Einige Beispiele",
+                  "route": "/detlef/deutsch/textinterpretation/einige-beispiele",
+                  "rel": "detlef/deutsch/textinterpretation/einige-beispiele.md"
+                },
+                {
+                  "type": "file",
+                  "name": "homo-faber",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Homo Faber",
+                  "route": "/detlef/deutsch/textinterpretation/homo-faber",
+                  "rel": "detlef/deutsch/textinterpretation/homo-faber.md"
+                },
+                {
+                  "type": "file",
+                  "name": "wie-ist-der-mensch-michel-de-montaigne",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Wie ist der Mensch (Michel de Montaigne)",
+                  "route": "/detlef/deutsch/textinterpretation/wie-ist-der-mensch-michel-de-montaigne",
+                  "rel": "detlef/deutsch/textinterpretation/wie-ist-der-mensch-michel-de-montaigne.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "einige-beispiele",
+                  "slug": "einige-beispiele",
+                  "title": "Einige Beispiele",
+                  "route": "/detlef/deutsch/textinterpretation/einige-beispiele",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "armer-und-reicher-teufel-ernst-bloch",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Armer und reicher Teufel (Ernst Bloch)",
+                      "route": "/detlef/deutsch/textinterpretation/einige-beispiele/armer-und-reicher-teufel-ernst-bloch",
+                      "rel": "detlef/deutsch/textinterpretation/einige-beispiele/armer-und-reicher-teufel-ernst-bloch.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "wie-ist-der-mensch-michel-de-montaigne",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Wie ist der Mensch?  (Michel de Montaigne)",
+                      "route": "/detlef/deutsch/textinterpretation/einige-beispiele/wie-ist-der-mensch-michel-de-montaigne",
+                      "rel": "detlef/deutsch/textinterpretation/einige-beispiele/wie-ist-der-mensch-michel-de-montaigne.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "dir",
+          "name": "geschichte",
+          "slug": "geschichte",
+          "title": "Geschichte",
+          "route": "/detlef/geschichte",
+          "index": null,
+          "files": [
+            {
+              "type": "file",
+              "name": "alexander-von-humboldts-sdamerikareise",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Alexander von Humboldts Südamerikareise",
+              "route": "/detlef/geschichte/alexander-von-humboldts-sdamerikareise",
+              "rel": "detlef/geschichte/alexander-von-humboldts-sdamerikareise.md"
+            },
+            {
+              "type": "file",
+              "name": "ber-die-pltzliche-grausamkeit-in-einer-unglcklichen-zeit",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Alexis de Tocqueville über die plötzliche Grausamkeit in einer unglücklichen Zeit",
+              "route": "/detlef/geschichte/ber-die-pltzliche-grausamkeit-in-einer-unglcklichen-zeit",
+              "rel": "detlef/geschichte/ber-die-pltzliche-grausamkeit-in-einer-unglcklichen-zeit.md"
+            },
+            {
+              "type": "file",
+              "name": "alexis-de-tocqueville-ber-grausamkeit-in-einer-unglcklichen-zeit",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Alexis de Tocqueville über Grausamkeit in einer unglücklichen Zeit",
+              "route": "/detlef/geschichte/alexis-de-tocqueville-ber-grausamkeit-in-einer-unglcklichen-zeit",
+              "rel": "detlef/geschichte/alexis-de-tocqueville-ber-grausamkeit-in-einer-unglcklichen-zeit.md"
+            },
+            {
+              "type": "file",
+              "name": "berichte-aus-einer-deutschen-diktatur",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Berichte aus einer deutschen Diktatur",
+              "route": "/detlef/geschichte/berichte-aus-einer-deutschen-diktatur",
+              "rel": "detlef/geschichte/berichte-aus-einer-deutschen-diktatur.md"
+            },
+            {
+              "type": "file",
+              "name": "berthold-von-rohrbach",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Berthold von Rohrbach",
+              "route": "/detlef/geschichte/berthold-von-rohrbach",
+              "rel": "detlef/geschichte/berthold-von-rohrbach.md"
+            },
+            {
+              "type": "file",
+              "name": "besuch-in-simferopol-2018",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Besuch in Simferopol 2018",
+              "route": "/detlef/geschichte/besuch-in-simferopol-2018",
+              "rel": "detlef/geschichte/besuch-in-simferopol-2018.md"
+            },
+            {
+              "type": "file",
+              "name": "ceausescu",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Ceausescu",
+              "route": "/detlef/geschichte/ceausescu",
+              "rel": "detlef/geschichte/ceausescu.md"
+            },
+            {
+              "type": "file",
+              "name": "das-eiserne-kreuz",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Das Eiserne Kreuz (Heiner Müller)",
+              "route": "/detlef/geschichte/das-eiserne-kreuz",
+              "rel": "detlef/geschichte/das-eiserne-kreuz.md"
+            },
+            {
+              "type": "file",
+              "name": "die-mittelschicht-diskussionsthemen",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die \"Mittelschicht\" (Diskussionsthemen)",
+              "route": "/detlef/geschichte/die-mittelschicht-diskussionsthemen",
+              "rel": "detlef/geschichte/die-mittelschicht-diskussionsthemen.md"
+            },
+            {
+              "type": "file",
+              "name": "faschismus-als-massenbewegung",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Faschismus als Massenbewegung",
+              "route": "/detlef/geschichte/faschismus-als-massenbewegung",
+              "rel": "detlef/geschichte/faschismus-als-massenbewegung.md"
+            },
+            {
+              "type": "file",
+              "name": "faschismus-als-massenbewegung-2",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Faschismus im 21. Jahrhundert?",
+              "route": "/detlef/geschichte/faschismus-als-massenbewegung-2",
+              "rel": "detlef/geschichte/faschismus-als-massenbewegung-2.md"
+            },
+            {
+              "type": "file",
+              "name": "gerchte",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Gerüchte",
+              "route": "/detlef/geschichte/gerchte",
+              "rel": "detlef/geschichte/gerchte.md"
+            },
+            {
+              "type": "file",
+              "name": "geschichte-des-neckars-und-des-philosophenwegs-ludwig-merzotto-jger",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Geschichte des Neckars und des Philosophenwegs (Ludwig Merz/Otto Jäger)",
+              "route": "/detlef/geschichte/geschichte-des-neckars-und-des-philosophenwegs-ludwig-merzotto-jger",
+              "rel": "detlef/geschichte/geschichte-des-neckars-und-des-philosophenwegs-ludwig-merzotto-jger.md"
+            },
+            {
+              "type": "file",
+              "name": "grenzen",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Grenzen",
+              "route": "/detlef/geschichte/grenzen",
+              "rel": "detlef/geschichte/grenzen.md"
+            },
+            {
+              "type": "file",
+              "name": "grenzen-ii",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Grenzen II",
+              "route": "/detlef/geschichte/grenzen-ii",
+              "rel": "detlef/geschichte/grenzen-ii.md"
+            },
+            {
+              "type": "file",
+              "name": "grenzen-iii",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Grenzen III",
+              "route": "/detlef/geschichte/grenzen-iii",
+              "rel": "detlef/geschichte/grenzen-iii.md"
+            },
+            {
+              "type": "file",
+              "name": "hooligans---angry-young-men",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Hooligans - Angry Young Men",
+              "route": "/detlef/geschichte/hooligans---angry-young-men",
+              "rel": "detlef/geschichte/hooligans---angry-young-men.md"
+            },
+            {
+              "type": "file",
+              "name": "integration",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Integration",
+              "route": "/detlef/geschichte/integration",
+              "rel": "detlef/geschichte/integration.md"
+            },
+            {
+              "type": "file",
+              "name": "jeremia",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jeremia",
+              "route": "/detlef/geschichte/jeremia",
+              "rel": "detlef/geschichte/jeremia.md"
+            },
+            {
+              "type": "file",
+              "name": "kontrollsysteme",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Kontrollsysteme",
+              "route": "/detlef/geschichte/kontrollsysteme",
+              "rel": "detlef/geschichte/kontrollsysteme.md"
+            },
+            {
+              "type": "file",
+              "name": "knstliche-feindschaften",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Künstliche Feindschaften",
+              "route": "/detlef/geschichte/knstliche-feindschaften",
+              "rel": "detlef/geschichte/knstliche-feindschaften.md"
+            },
+            {
+              "type": "file",
+              "name": "mein--onkel-emil",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Mein  Onkel Emil",
+              "route": "/detlef/geschichte/mein--onkel-emil",
+              "rel": "detlef/geschichte/mein--onkel-emil.md"
+            },
+            {
+              "type": "file",
+              "name": "mein-grovater-rudolf-zeiler",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Mein Großvater Rudolf Zeiler",
+              "route": "/detlef/geschichte/mein-grovater-rudolf-zeiler",
+              "rel": "detlef/geschichte/mein-grovater-rudolf-zeiler.md"
+            },
+            {
+              "type": "file",
+              "name": "was-mich-betrifft",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Menschenwürde und Rechtsstaat",
+              "route": "/detlef/geschichte/was-mich-betrifft",
+              "rel": "detlef/geschichte/was-mich-betrifft.md"
+            },
+            {
+              "type": "file",
+              "name": "modellskizze-einer-menschlichen-moral",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Modellskizze einer menschlichen Moral",
+              "route": "/detlef/geschichte/modellskizze-einer-menschlichen-moral",
+              "rel": "detlef/geschichte/modellskizze-einer-menschlichen-moral.md"
+            },
+            {
+              "type": "file",
+              "name": "nationen",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Nationen",
+              "route": "/detlef/geschichte/nationen",
+              "rel": "detlef/geschichte/nationen.md"
+            },
+            {
+              "type": "file",
+              "name": "nicht-tdliche-waffen",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Nicht-tödliche Waffen",
+              "route": "/detlef/geschichte/nicht-tdliche-waffen",
+              "rel": "detlef/geschichte/nicht-tdliche-waffen.md"
+            },
+            {
+              "type": "file",
+              "name": "thalmann",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Pavel Thalmann (1901 - 1980)",
+              "route": "/detlef/geschichte/thalmann",
+              "rel": "detlef/geschichte/thalmann.md"
+            },
+            {
+              "type": "file",
+              "name": "sind-wir-nur-tiere",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Sind wir (nur) Tiere?",
+              "route": "/detlef/geschichte/sind-wir-nur-tiere",
+              "rel": "detlef/geschichte/sind-wir-nur-tiere.md"
+            },
+            {
+              "type": "file",
+              "name": "ber-die-grausamkeit",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Über die Grausamkeit",
+              "route": "/detlef/geschichte/ber-die-grausamkeit",
+              "rel": "detlef/geschichte/ber-die-grausamkeit.md"
+            },
+            {
+              "type": "file",
+              "name": "zeit-der-intrigen",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Zeit der Intrigen",
+              "route": "/detlef/geschichte/zeit-der-intrigen",
+              "rel": "detlef/geschichte/zeit-der-intrigen.md"
+            }
+          ],
+          "dirs": [
+            {
+              "type": "dir",
+              "name": "ceausescu",
+              "slug": "ceausescu",
+              "title": "Ceausescu",
+              "route": "/detlef/geschichte/ceausescu",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "idylle-und-realitt-unter-ceaucescu",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Idylle und Realität unter Ceaucescu",
+                  "route": "/detlef/geschichte/ceausescu/idylle-und-realitt-unter-ceaucescu",
+                  "rel": "detlef/geschichte/ceausescu/idylle-und-realitt-unter-ceaucescu.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "faschismus-als-massenbewegung",
+              "slug": "faschismus-als-massenbewegung",
+              "title": "Faschismus Als Massenbewegung",
+              "route": "/detlef/geschichte/faschismus-als-massenbewegung",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "gerusch",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Geräusch",
+                  "route": "/detlef/geschichte/faschismus-als-massenbewegung/gerusch",
+                  "rel": "detlef/geschichte/faschismus-als-massenbewegung/gerusch.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "mein-grovater-rudolf-zeiler",
+              "slug": "mein-grovater-rudolf-zeiler",
+              "title": "Mein Grovater Rudolf Zeiler",
+              "route": "/detlef/geschichte/mein-grovater-rudolf-zeiler",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "rudolf-zeiler",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Rudolf Zeiler",
+                  "route": "/detlef/geschichte/mein-grovater-rudolf-zeiler/rudolf-zeiler",
+                  "rel": "detlef/geschichte/mein-grovater-rudolf-zeiler/rudolf-zeiler.md"
+                }
+              ],
+              "dirs": []
+            }
+          ]
+        },
+        {
+          "type": "dir",
+          "name": "medien",
+          "slug": "medien",
+          "title": "Medien",
+          "route": "/detlef/medien",
+          "index": null,
+          "files": [
+            {
+              "type": "file",
+              "name": "geruechte-rumores-drehbuch",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Gerüchte – Rumores (Drehbuch und Storyboard)",
+              "route": "/detlef/medien/geruechte-rumores-drehbuch",
+              "rel": "detlef/medien/geruechte-rumores-drehbuch.md"
+            },
+            {
+              "type": "file",
+              "name": "medienerziehung",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Medienerziehung",
+              "route": "/detlef/medien/medienerziehung",
+              "rel": "detlef/medien/medienerziehung.md"
+            }
+          ],
+          "dirs": [
+            {
+              "type": "dir",
+              "name": "medienerziehung",
+              "slug": "medienerziehung",
+              "title": "Medienerziehung",
+              "route": "/detlef/medien/medienerziehung",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "altersgemaesse-schwerpunktsetzungen",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Altersgemäße Schwerpunktsetzungen",
+                  "route": "/detlef/medien/medienerziehung/altersgemaesse-schwerpunktsetzungen",
+                  "rel": "detlef/medien/medienerziehung/altersgemaesse-schwerpunktsetzungen.md"
+                },
+                {
+                  "type": "file",
+                  "name": "aufgabenbereiche-und-zielsetzungen",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Aufgabenbereiche und Zielsetzungen",
+                  "route": "/detlef/medien/medienerziehung/aufgabenbereiche-und-zielsetzungen",
+                  "rel": "detlef/medien/medienerziehung/aufgabenbereiche-und-zielsetzungen.md"
+                },
+                {
+                  "type": "file",
+                  "name": "erlebnis-und-handlungsorientierung-als-prinzipien",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Erlebnis- und Handlungsorientierung als Prinzipien",
+                  "route": "/detlef/medien/medienerziehung/erlebnis-und-handlungsorientierung-als-prinzipien",
+                  "rel": "detlef/medien/medienerziehung/erlebnis-und-handlungsorientierung-als-prinzipien.md"
+                },
+                {
+                  "type": "file",
+                  "name": "gestaltung-von-audiovisuellen-medien",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Gestaltung von audiovisuellen Medien",
+                  "route": "/detlef/medien/medienerziehung/gestaltung-von-audiovisuellen-medien",
+                  "rel": "detlef/medien/medienerziehung/gestaltung-von-audiovisuellen-medien.md"
+                },
+                {
+                  "type": "file",
+                  "name": "leseerziehung-und-hoererziehung",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Leseerziehung und Hörerziehung",
+                  "route": "/detlef/medien/medienerziehung/leseerziehung-und-hoererziehung",
+                  "rel": "detlef/medien/medienerziehung/leseerziehung-und-hoererziehung.md"
+                },
+                {
+                  "type": "file",
+                  "name": "medienerziehung-als-gesamtgesellschaftliche-aufgabe",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Medienerziehung als gesamtgesellschaftliche Aufgabe",
+                  "route": "/detlef/medien/medienerziehung/medienerziehung-als-gesamtgesellschaftliche-aufgabe",
+                  "rel": "detlef/medien/medienerziehung/medienerziehung-als-gesamtgesellschaftliche-aufgabe.md"
+                },
+                {
+                  "type": "file",
+                  "name": "medienerziehung-im-bereich-von-computerspielen-und-interaktiven-medien",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Medienerziehung im Bereich von Computerspielen und interaktiven Medien",
+                  "route": "/detlef/medien/medienerziehung/medienerziehung-im-bereich-von-computerspielen-und-interaktiven-medien",
+                  "rel": "detlef/medien/medienerziehung/medienerziehung-im-bereich-von-computerspielen-und-interaktiven-medien.md"
+                },
+                {
+                  "type": "file",
+                  "name": "medienerziehung-im-erziehungs-und-bildungszusammenhang",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Medienerziehung im Erziehungs- und Bildungszusammenhang",
+                  "route": "/detlef/medien/medienerziehung/medienerziehung-im-erziehungs-und-bildungszusammenhang",
+                  "rel": "detlef/medien/medienerziehung/medienerziehung-im-erziehungs-und-bildungszusammenhang.md"
+                },
+                {
+                  "type": "file",
+                  "name": "medienkompetenz-vorbemerkung",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Medienkompetenz - Vorbemerkung",
+                  "route": "/detlef/medien/medienerziehung/medienkompetenz-vorbemerkung",
+                  "rel": "detlef/medien/medienerziehung/medienkompetenz-vorbemerkung.md"
+                },
+                {
+                  "type": "file",
+                  "name": "schuelerzeitschriften",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Schülerzeitschriften",
+                  "route": "/detlef/medien/medienerziehung/schuelerzeitschriften",
+                  "rel": "detlef/medien/medienerziehung/schuelerzeitschriften.md"
+                },
+                {
+                  "type": "file",
+                  "name": "spielfilme",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Spielfilme",
+                  "route": "/detlef/medien/medienerziehung/spielfilme",
+                  "rel": "detlef/medien/medienerziehung/spielfilme.md"
+                },
+                {
+                  "type": "file",
+                  "name": "veraenderung-der-bildungs-und-erziehungssituation",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Veränderung der Bildungs- und Erziehungssituation",
+                  "route": "/detlef/medien/medienerziehung/veraenderung-der-bildungs-und-erziehungssituation",
+                  "rel": "detlef/medien/medienerziehung/veraenderung-der-bildungs-und-erziehungssituation.md"
+                },
+                {
+                  "type": "file",
+                  "name": "verankerung-in-den-lehrplaenen",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Verankerung in den Lehrplänen",
+                  "route": "/detlef/medien/medienerziehung/verankerung-in-den-lehrplaenen",
+                  "rel": "detlef/medien/medienerziehung/verankerung-in-den-lehrplaenen.md"
+                },
+                {
+                  "type": "file",
+                  "name": "zukuenftige-ansatzpunkte",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Zukünftige Ansatzpunkte",
+                  "route": "/detlef/medien/medienerziehung/zukuenftige-ansatzpunkte",
+                  "rel": "detlef/medien/medienerziehung/zukuenftige-ansatzpunkte.md"
+                },
+                {
+                  "type": "file",
+                  "name": "zum-begriff-medienkultur",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Zum Begriff Medienkultur",
+                  "route": "/detlef/medien/medienerziehung/zum-begriff-medienkultur",
+                  "rel": "detlef/medien/medienerziehung/zum-begriff-medienkultur.md"
+                }
+              ],
+              "dirs": []
+            }
+          ]
+        },
+        {
+          "type": "dir",
+          "name": "projekte",
+          "slug": "projekte",
+          "title": "Projekte",
+          "route": "/detlef/projekte",
+          "index": null,
+          "files": [
+            {
+              "type": "file",
+              "name": "heiligenberg",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Der Heiligenberg bei Heidelberg",
+              "route": "/detlef/projekte/heiligenberg",
+              "rel": "detlef/projekte/heiligenberg.md"
+            },
+            {
+              "type": "file",
+              "name": "die-elsenz-und-der-kraichgau",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Elsenz und der Kraichgau",
+              "route": "/detlef/projekte/die-elsenz-und-der-kraichgau",
+              "rel": "detlef/projekte/die-elsenz-und-der-kraichgau.md"
+            },
+            {
+              "type": "file",
+              "name": "dritte-gewalt-strafvollzug",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Dritte Gewalt - Strafvollzug",
+              "route": "/detlef/projekte/dritte-gewalt-strafvollzug",
+              "rel": "detlef/projekte/dritte-gewalt-strafvollzug.md"
+            },
+            {
+              "type": "file",
+              "name": "heidelberg-im-mittelalter",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Heidelberg im Mittelalter",
+              "route": "/detlef/projekte/heidelberg-im-mittelalter",
+              "rel": "detlef/projekte/heidelberg-im-mittelalter.md"
+            },
+            {
+              "type": "file",
+              "name": "heidelberger-schulgeschichten",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Heidelberger Schulgeschichten",
+              "route": "/detlef/projekte/heidelberger-schulgeschichten",
+              "rel": "detlef/projekte/heidelberger-schulgeschichten.md"
+            },
+            {
+              "type": "file",
+              "name": "neuenheim",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Neuenheim ist halb Europa",
+              "route": "/detlef/projekte/neuenheim",
+              "rel": "detlef/projekte/neuenheim.md"
+            },
+            {
+              "type": "file",
+              "name": "old-providence-die-insel-providencia",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Old Providence - Die Insel Providencia",
+              "route": "/detlef/projekte/old-providence-die-insel-providencia",
+              "rel": "detlef/projekte/old-providence-die-insel-providencia.md"
+            }
+          ],
+          "dirs": [
+            {
+              "type": "dir",
+              "name": "die-elsenz-und-der-kraichgau",
+              "slug": "die-elsenz-und-der-kraichgau",
+              "title": "Die Elsenz Und Der Kraichgau",
+              "route": "/detlef/projekte/die-elsenz-und-der-kraichgau",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "geographische-lage",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Geographische Lage",
+                  "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage",
+                  "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage.md"
+                },
+                {
+                  "type": "file",
+                  "name": "geschichte-und-politik",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Geschichte und Politik",
+                  "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik",
+                  "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik.md"
+                },
+                {
+                  "type": "file",
+                  "name": "kultur-religion",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Kultur / Religion",
+                  "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/kultur-religion",
+                  "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/kultur-religion.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "geographische-lage",
+                  "slug": "geographische-lage",
+                  "title": "Geographische Lage",
+                  "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "der-steinsberg",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Der Steinsberg",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage/der-steinsberg",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage/der-steinsberg.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "die-elsenz",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Elsenz",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage/die-elsenz",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage/die-elsenz.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "mhlen-an-der-elsenz",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Mühlen an der Elsenz",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage/mhlen-an-der-elsenz",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geographische-lage/mhlen-an-der-elsenz.md"
+                    }
+                  ],
+                  "dirs": []
+                },
+                {
+                  "type": "dir",
+                  "name": "geschichte-und-politik",
+                  "slug": "geschichte-und-politik",
+                  "title": "Geschichte Und Politik",
+                  "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "bauernunruhen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Bauernunruhen",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/bauernunruhen",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/bauernunruhen.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "der-gaubegriff",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Der Gaubegriff",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/der-gaubegriff",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/der-gaubegriff.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "der-kraichgau-als-militaerisches-operationsgebiet",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Der Kraichgau als militärisches Operationsgebiet",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/der-kraichgau-als-militaerisches-operationsgebiet",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/der-kraichgau-als-militaerisches-operationsgebiet.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "die-burg-steinsberg",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Burg Steinsberg",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/die-burg-steinsberg",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/die-burg-steinsberg.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "friedrich-hecker",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Friedrich Hecker",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/friedrich-hecker",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/friedrich-hecker.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "joss-fritz-und-der-bundschuh",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Joss Fritz und der Bundschuh",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/joss-fritz-und-der-bundschuh",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/joss-fritz-und-der-bundschuh.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "renaissance-im-kraichgau",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Renaissance im Kraichgau",
+                      "route": "/detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/renaissance-im-kraichgau",
+                      "rel": "detlef/projekte/die-elsenz-und-der-kraichgau/geschichte-und-politik/renaissance-im-kraichgau.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            },
+            {
+              "type": "dir",
+              "name": "dritte-gewalt-strafvollzug",
+              "slug": "dritte-gewalt-strafvollzug",
+              "title": "Dritte Gewalt Strafvollzug",
+              "route": "/detlef/projekte/dritte-gewalt-strafvollzug",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "anmerkungen",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Anmerkungen",
+                  "route": "/detlef/projekte/dritte-gewalt-strafvollzug/anmerkungen",
+                  "rel": "detlef/projekte/dritte-gewalt-strafvollzug/anmerkungen.md"
+                },
+                {
+                  "type": "file",
+                  "name": "beispiel-fuer-ein-projekt",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Beispiel für ein Projekt",
+                  "route": "/detlef/projekte/dritte-gewalt-strafvollzug/beispiel-fuer-ein-projekt",
+                  "rel": "detlef/projekte/dritte-gewalt-strafvollzug/beispiel-fuer-ein-projekt.md"
+                },
+                {
+                  "type": "file",
+                  "name": "gymnasium",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Gymnasium",
+                  "route": "/detlef/projekte/dritte-gewalt-strafvollzug/gymnasium",
+                  "rel": "detlef/projekte/dritte-gewalt-strafvollzug/gymnasium.md"
+                },
+                {
+                  "type": "file",
+                  "name": "hauptschule",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Hauptschule",
+                  "route": "/detlef/projekte/dritte-gewalt-strafvollzug/hauptschule",
+                  "rel": "detlef/projekte/dritte-gewalt-strafvollzug/hauptschule.md"
+                },
+                {
+                  "type": "file",
+                  "name": "medienforum-heidelberg-ev",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Medienforum Heidelberg e.V.",
+                  "route": "/detlef/projekte/dritte-gewalt-strafvollzug/medienforum-heidelberg-ev",
+                  "rel": "detlef/projekte/dritte-gewalt-strafvollzug/medienforum-heidelberg-ev.md"
+                },
+                {
+                  "type": "file",
+                  "name": "realschule",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Realschule",
+                  "route": "/detlef/projekte/dritte-gewalt-strafvollzug/realschule",
+                  "rel": "detlef/projekte/dritte-gewalt-strafvollzug/realschule.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "heidelberg-im-mittelalter",
+              "slug": "heidelberg-im-mittelalter",
+              "title": "Heidelberg Im Mittelalter",
+              "route": "/detlef/projekte/heidelberg-im-mittelalter",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "armenpflege-und-soziale-einrichtungen",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Armenpflege und soziale Einrichtungen",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/armenpflege-und-soziale-einrichtungen",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/armenpflege-und-soziale-einrichtungen.md"
+                },
+                {
+                  "type": "file",
+                  "name": "sittenstrafordnung-fuer-dirnen",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Auszug aus der Sittenstrafordnung für Dirnen des Heidelberger Kurfürsten Ott-Heinrich des Jahres 1532",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/sittenstrafordnung-fuer-dirnen",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/sittenstrafordnung-fuer-dirnen.md"
+                },
+                {
+                  "type": "file",
+                  "name": "das-aelteste-gewerbe",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Das älteste Gewerbe im alten Heidelberg",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/das-aelteste-gewerbe",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/das-aelteste-gewerbe.md"
+                },
+                {
+                  "type": "file",
+                  "name": "dr-jochen-goetze",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Dr. Jochen Goetze",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/dr-jochen-goetze",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/dr-jochen-goetze.md"
+                },
+                {
+                  "type": "file",
+                  "name": "freizeit",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Freizeit im Mittelalter",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/freizeit",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/freizeit.md"
+                },
+                {
+                  "type": "file",
+                  "name": "hexenglauben-und-hexenprozesse",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Hexenglauben und Hexenprozesse",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/hexenglauben-und-hexenprozesse",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/hexenglauben-und-hexenprozesse.md"
+                },
+                {
+                  "type": "file",
+                  "name": "juden",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Juden im mittelalterlichen Heidelberg",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/juden",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/juden.md"
+                },
+                {
+                  "type": "file",
+                  "name": "literaturverzeichnis",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Literaturverzeichnis",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/literaturverzeichnis",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/literaturverzeichnis.md"
+                },
+                {
+                  "type": "file",
+                  "name": "mopaed",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - MOPÄD - Mobile Pädagogen",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/mopaed",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/mopaed.md"
+                },
+                {
+                  "type": "file",
+                  "name": "praktische-heimatkunde",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Praktische Heimatkunde",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/praktische-heimatkunde",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/praktische-heimatkunde.md"
+                },
+                {
+                  "type": "file",
+                  "name": "stadtgruendung-stadtentwicklung",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Stadtgründung - Stadtentwicklung",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung.md"
+                },
+                {
+                  "type": "file",
+                  "name": "strafrecht-und-strafvollzug",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Strafrecht und Strafvollzug",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug.md"
+                },
+                {
+                  "type": "file",
+                  "name": "universitaet-und-studenten",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Universität und Studenten im Heidelberger Mittelalter",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten",
+                  "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "juden",
+                  "slug": "juden",
+                  "title": "Juden",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/juden",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "phase-relativer-toleranz",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Phase relativer Toleranz",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/juden/phase-relativer-toleranz",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/juden/phase-relativer-toleranz.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "spielball-fremder-interessen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Spielball fremder Interessen",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/juden/spielball-fremder-interessen",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/juden/spielball-fremder-interessen.md"
+                    }
+                  ],
+                  "dirs": []
+                },
+                {
+                  "type": "dir",
+                  "name": "stadtgruendung-stadtentwicklung",
+                  "slug": "stadtgruendung-stadtentwicklung",
+                  "title": "Stadtgruendung Stadtentwicklung",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "stadtaufbau",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Der Stadtaufbau von Heidelberg",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung/stadtaufbau",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung/stadtaufbau.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "entstehung-und-namensgebung",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Heidelberg: Entstehung und Namensgebung",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung/entstehung-und-namensgebung",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung/entstehung-und-namensgebung.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "stadtverfassung",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Stadtgründung - Stadtentwicklung Stadtverfassung",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung/stadtverfassung",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/stadtgruendung-stadtentwicklung/stadtverfassung.md"
+                    }
+                  ],
+                  "dirs": []
+                },
+                {
+                  "type": "dir",
+                  "name": "strafrecht-und-strafvollzug",
+                  "slug": "strafrecht-und-strafvollzug",
+                  "title": "Strafrecht Und Strafvollzug",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "triumph-des-guten",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - I. Strafe - der Triumph des Guten",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/triumph-des-guten",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/triumph-des-guten.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "constitutio-criminalis-carolina",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - II. Constitutio Criminalis Carolina",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/constitutio-criminalis-carolina",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/constitutio-criminalis-carolina.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "verbrechen-und-strafen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - III. Verbrechen und Strafen",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/verbrechen-und-strafen",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/verbrechen-und-strafen.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "strafordnung",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - IV. Strafordnung im mittelalterlichen Heidelberg",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/strafordnung",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/strafordnung.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "richtstaetten-und-gefaengnisse",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - V. Richtstätten und Gefängnisse im alten Heidelberg",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/richtstaetten-und-gefaengnisse",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/richtstaetten-und-gefaengnisse.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "anmerkungen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - VI. Anmerkungen",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/anmerkungen",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/strafrecht-und-strafvollzug/anmerkungen.md"
+                    }
+                  ],
+                  "dirs": []
+                },
+                {
+                  "type": "dir",
+                  "name": "universitaet-und-studenten",
+                  "slug": "universitaet-und-studenten",
+                  "title": "Universitaet Und Studenten",
+                  "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "ausbau-der-universitaet-und-rueckschlaege",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Ausbau der Universität und Rückschläge",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/ausbau-der-universitaet-und-rueckschlaege",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/ausbau-der-universitaet-und-rueckschlaege.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "ausbau-und-finanzierung",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Ausbau und Finanzierung der Universität",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/ausbau-und-finanzierung",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/ausbau-und-finanzierung.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "die-anfaenge-stadt-hof-und-universitaet",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Anfänge: Stadt, Hof und Universität",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/die-anfaenge-stadt-hof-und-universitaet",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/die-anfaenge-stadt-hof-und-universitaet.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "die-universitaet-zwischen-mittelalter-und-neuzeit",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Universität zwischen Mittelalter und Neuzeit",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/die-universitaet-zwischen-mittelalter-und-neuzeit",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/die-universitaet-zwischen-mittelalter-und-neuzeit.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "konflikte-mit-hofbediensteten-buergern-und-juden",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Konflikte mit Hofbediensteten, Bürgern und Juden",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/konflikte-mit-hofbediensteten-buergern-und-juden",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/konflikte-mit-hofbediensteten-buergern-und-juden.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "motive-fuer-den-aufbau-einer-universitaet",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Motive für den Aufbau einer Universität",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/motive-fuer-den-aufbau-einer-universitaet",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/motive-fuer-den-aufbau-einer-universitaet.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "studentenunruhen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Studentenunruhen im alten Heidelberg",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/studentenunruhen",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/studentenunruhen.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "einleitung",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Universität und Studenten im Heidelberger Mittelalter: Einleitung",
+                      "route": "/detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/einleitung",
+                      "rel": "detlef/projekte/heidelberg-im-mittelalter/universitaet-und-studenten/einleitung.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            },
+            {
+              "type": "dir",
+              "name": "heidelberger-schulgeschichten",
+              "slug": "heidelberger-schulgeschichten",
+              "title": "Heidelberger Schulgeschichten",
+              "route": "/detlef/projekte/heidelberger-schulgeschichten",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "buerger-und-bauern",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Bürger und Bauern",
+                  "route": "/detlef/projekte/heidelberger-schulgeschichten/buerger-und-bauern",
+                  "rel": "detlef/projekte/heidelberger-schulgeschichten/buerger-und-bauern.md"
+                },
+                {
+                  "type": "file",
+                  "name": "das-18te-jahrhundert",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Das 18. Jahrhundert",
+                  "route": "/detlef/projekte/heidelberger-schulgeschichten/das-18te-jahrhundert",
+                  "rel": "detlef/projekte/heidelberger-schulgeschichten/das-18te-jahrhundert.md"
+                },
+                {
+                  "type": "file",
+                  "name": "das-19te-jahrhundert",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Das 19. Jahrhundert",
+                  "route": "/detlef/projekte/heidelberger-schulgeschichten/das-19te-jahrhundert",
+                  "rel": "detlef/projekte/heidelberger-schulgeschichten/das-19te-jahrhundert.md"
+                },
+                {
+                  "type": "file",
+                  "name": "das-20te-jahrhundert",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Das 20. Jahrhundert",
+                  "route": "/detlef/projekte/heidelberger-schulgeschichten/das-20te-jahrhundert",
+                  "rel": "detlef/projekte/heidelberger-schulgeschichten/das-20te-jahrhundert.md"
+                },
+                {
+                  "type": "file",
+                  "name": "anfaenge",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Anfänge",
+                  "route": "/detlef/projekte/heidelberger-schulgeschichten/anfaenge",
+                  "rel": "detlef/projekte/heidelberger-schulgeschichten/anfaenge.md"
+                },
+                {
+                  "type": "file",
+                  "name": "lehrerschaft-kfg-3tes-reich",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Lehrerschaft des Heidelberger Kurfürst-Friedrich-Gymnasiums in der Zeit des Nationalsozialismus",
+                  "route": "/detlef/projekte/heidelberger-schulgeschichten/lehrerschaft-kfg-3tes-reich",
+                  "rel": "detlef/projekte/heidelberger-schulgeschichten/lehrerschaft-kfg-3tes-reich.md"
+                },
+                {
+                  "type": "file",
+                  "name": "schuelerunruhen-am-kfg",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Schülerunruhen am Kurfürst-Friedrich-Gymnasium im Jahre 1968",
+                  "route": "/detlef/projekte/heidelberger-schulgeschichten/schuelerunruhen-am-kfg",
+                  "rel": "detlef/projekte/heidelberger-schulgeschichten/schuelerunruhen-am-kfg.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "heiligenberg",
+              "slug": "heiligenberg",
+              "title": "Heiligenberg",
+              "route": "/detlef/projekte/heiligenberg",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "der-unheimliche-berg",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Der unheimliche Berg",
+                  "route": "/detlef/projekte/heiligenberg/der-unheimliche-berg",
+                  "rel": "detlef/projekte/heiligenberg/der-unheimliche-berg.md"
+                },
+                {
+                  "type": "file",
+                  "name": "geschichte",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Geschichte des Heiligenbergs",
+                  "route": "/detlef/projekte/heiligenberg/geschichte",
+                  "rel": "detlef/projekte/heiligenberg/geschichte.md"
+                },
+                {
+                  "type": "file",
+                  "name": "mopaed",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - MOPÄD - Mobile Pädagogen",
+                  "route": "/detlef/projekte/heiligenberg/mopaed",
+                  "rel": "detlef/projekte/heiligenberg/mopaed.md"
+                },
+                {
+                  "type": "file",
+                  "name": "projekt",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Unser Projekt",
+                  "route": "/detlef/projekte/heiligenberg/projekt",
+                  "rel": "detlef/projekte/heiligenberg/projekt.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "neuenheim",
+              "slug": "neuenheim",
+              "title": "Neuenheim",
+              "route": "/detlef/projekte/neuenheim",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "ist-halb-europa",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - „Neuenheim ist halb Europa“",
+                  "route": "/detlef/projekte/neuenheim/ist-halb-europa",
+                  "rel": "detlef/projekte/neuenheim/ist-halb-europa.md"
+                },
+                {
+                  "type": "file",
+                  "name": "eingemeindung",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Die Eingemeindung Neuenheims 1891",
+                  "route": "/detlef/projekte/neuenheim/eingemeindung",
+                  "rel": "detlef/projekte/neuenheim/eingemeindung.md"
+                },
+                {
+                  "type": "file",
+                  "name": "interview-krauch",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Interview mit Herrn Krauch",
+                  "route": "/detlef/projekte/neuenheim/interview-krauch",
+                  "rel": "detlef/projekte/neuenheim/interview-krauch.md"
+                },
+                {
+                  "type": "file",
+                  "name": "mopaed",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - MOPÄD - Mobile Pädagogen",
+                  "route": "/detlef/projekte/neuenheim/mopaed",
+                  "rel": "detlef/projekte/neuenheim/mopaed.md"
+                },
+                {
+                  "type": "file",
+                  "name": "otto-jaeger-ludwig-merz",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Neuenheim wird Stadtteil von Heidelberg",
+                  "route": "/detlef/projekte/neuenheim/otto-jaeger-ludwig-merz",
+                  "rel": "detlef/projekte/neuenheim/otto-jaeger-ludwig-merz.md"
+                },
+                {
+                  "type": "file",
+                  "name": "projekt",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Projekt",
+                  "route": "/detlef/projekte/neuenheim/projekt",
+                  "rel": "detlef/projekte/neuenheim/projekt.md"
+                },
+                {
+                  "type": "file",
+                  "name": "ueberblick",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Überblick",
+                  "route": "/detlef/projekte/neuenheim/ueberblick",
+                  "rel": "detlef/projekte/neuenheim/ueberblick.md"
+                },
+                {
+                  "type": "file",
+                  "name": "judenfrei",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Und plötzlich war die Klasse \"judenfrei\"...",
+                  "route": "/detlef/projekte/neuenheim/judenfrei",
+                  "rel": "detlef/projekte/neuenheim/judenfrei.md"
+                }
+              ],
+              "dirs": []
+            },
+            {
+              "type": "dir",
+              "name": "old-providence-die-insel-providencia",
+              "slug": "old-providence-die-insel-providencia",
+              "title": "Old Providence Die Insel Providencia",
+              "route": "/detlef/projekte/old-providence-die-insel-providencia",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "1817-1821-die-korsaren",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - 1817-1821 - Die Korsaren",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/1817-1821-die-korsaren",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/1817-1821-die-korsaren.md"
+                },
+                {
+                  "type": "file",
+                  "name": "aktuell-1903-heute",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Aktuell - 1903-heute",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/aktuell-1903-heute",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/aktuell-1903-heute.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1629",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1629",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1629",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1629.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1641",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1641",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1641",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1641.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1666-piraterie",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1666 - Piraterie",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1666-piraterie",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1666-piraterie.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1666-1670",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1666-1670",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1666-1670",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1666-1670.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1670",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1670",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1670",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1670.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1670-1767",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1670-1767",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1670-1767",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1670-1767.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1767",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1767",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1767",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1767.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1790-1803",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1790-1803",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1790-1803",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1790-1803.md"
+                },
+                {
+                  "type": "file",
+                  "name": "jahr-1822-die-republik",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Jahr 1822 - Die Republik",
+                  "route": "/detlef/projekte/old-providence-die-insel-providencia/jahr-1822-die-republik",
+                  "rel": "detlef/projekte/old-providence-die-insel-providencia/jahr-1822-die-republik.md"
+                }
+              ],
+              "dirs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "julian",
+      "slug": "julian",
+      "title": "Julian",
+      "route": "/julian",
+      "index": null,
+      "files": [
+        {
+          "type": "file",
+          "name": "about-me",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - About me (old)",
+          "route": "/julian/about-me",
+          "rel": "julian/about-me.md"
+        },
+        {
+          "type": "file",
+          "name": "artikel",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Artikel",
+          "route": "/julian/artikel",
+          "rel": "julian/artikel.md"
+        },
+        {
+          "type": "file",
+          "name": "contact",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Contact / Impressum",
+          "route": "/julian/contact",
+          "rel": "julian/contact.md"
+        },
+        {
+          "type": "file",
+          "name": "techzap",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Techzap",
+          "route": "/julian/techzap",
+          "rel": "julian/techzap.md"
+        },
+        {
+          "type": "file",
+          "name": "work",
+          "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Work (old)",
+          "route": "/julian/work",
+          "rel": "julian/work.md"
+        }
+      ],
+      "dirs": [
+        {
+          "type": "dir",
+          "name": "artikel",
+          "slug": "artikel",
+          "title": "Artikel",
+          "route": "/julian/artikel",
+          "index": null,
+          "files": [
+            {
+              "type": "file",
+              "name": "agile-methoden-in-der-softwareentwicklung",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Agile Methoden in der Softwareentwicklung",
+              "route": "/julian/artikel/agile-methoden-in-der-softwareentwicklung",
+              "rel": "julian/artikel/agile-methoden-in-der-softwareentwicklung.md"
+            },
+            {
+              "type": "file",
+              "name": "auswirkungen-von-ideologien-der-open-source-lizenzen",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Auswirkungen von Ideologien der Open Source Lizenzen",
+              "route": "/julian/artikel/auswirkungen-von-ideologien-der-open-source-lizenzen",
+              "rel": "julian/artikel/auswirkungen-von-ideologien-der-open-source-lizenzen.md"
+            },
+            {
+              "type": "file",
+              "name": "was-ist-das-web-20",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Was ist das Web 2.0?",
+              "route": "/julian/artikel/was-ist-das-web-20",
+              "rel": "julian/artikel/was-ist-das-web-20.md"
+            }
+          ],
+          "dirs": []
+        },
+        {
+          "type": "dir",
+          "name": "techzap",
+          "slug": "techzap",
+          "title": "Techzap",
+          "route": "/julian/techzap",
+          "index": null,
+          "files": [
+            {
+              "type": "file",
+              "name": "design",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Design",
+              "route": "/julian/techzap/design",
+              "rel": "julian/techzap/design.md"
+            },
+            {
+              "type": "file",
+              "name": "programmierung",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Programmierung",
+              "route": "/julian/techzap/programmierung",
+              "rel": "julian/techzap/programmierung.md"
+            },
+            {
+              "type": "file",
+              "name": "server",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Server",
+              "route": "/julian/techzap/server",
+              "rel": "julian/techzap/server.md"
+            },
+            {
+              "type": "file",
+              "name": "technik",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Technik",
+              "route": "/julian/techzap/technik",
+              "rel": "julian/techzap/technik.md"
+            }
+          ],
+          "dirs": [
+            {
+              "type": "dir",
+              "name": "design",
+              "slug": "design",
+              "title": "Design",
+              "route": "/julian/techzap/design",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "microsoft-paint",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Microsoft Paint",
+                  "route": "/julian/techzap/design/microsoft-paint",
+                  "rel": "julian/techzap/design/microsoft-paint.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "microsoft-paint",
+                  "slug": "microsoft-paint",
+                  "title": "Microsoft Paint",
+                  "route": "/julian/techzap/design/microsoft-paint",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "favicon-ico-mit-ms-paint-und-bmp2ico-erstellen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - favicon ico mit MS Paint und BMP2ICO erstellen",
+                      "route": "/julian/techzap/design/microsoft-paint/favicon-ico-mit-ms-paint-und-bmp2ico-erstellen",
+                      "rel": "julian/techzap/design/microsoft-paint/favicon-ico-mit-ms-paint-und-bmp2ico-erstellen.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            },
+            {
+              "type": "dir",
+              "name": "programmierung",
+              "slug": "programmierung",
+              "title": "Programmierung",
+              "route": "/julian/techzap/programmierung",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "einfuehrung-in-das-programmieren",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Einführung in das Programmieren (alt und unvollendet)",
+                  "route": "/julian/techzap/programmierung/einfuehrung-in-das-programmieren",
+                  "rel": "julian/techzap/programmierung/einfuehrung-in-das-programmieren.md"
+                },
+                {
+                  "type": "file",
+                  "name": "perl",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Perl",
+                  "route": "/julian/techzap/programmierung/perl",
+                  "rel": "julian/techzap/programmierung/perl.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "einfuehrung-in-das-programmieren",
+                  "slug": "einfuehrung-in-das-programmieren",
+                  "title": "Einfuehrung In Das Programmieren",
+                  "route": "/julian/techzap/programmierung/einfuehrung-in-das-programmieren",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "grundlagen-variablen-operatoren-funktionen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Einführung in die Programmierung - Kapitel 1: Die Grundlagen",
+                      "route": "/julian/techzap/programmierung/einfuehrung-in-das-programmieren/grundlagen-variablen-operatoren-funktionen",
+                      "rel": "julian/techzap/programmierung/einfuehrung-in-das-programmieren/grundlagen-variablen-operatoren-funktionen.md"
+                    }
+                  ],
+                  "dirs": []
+                },
+                {
+                  "type": "dir",
+                  "name": "perl",
+                  "slug": "perl",
+                  "title": "Perl",
+                  "route": "/julian/techzap/programmierung/perl",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "perl-einzeiler-suchen-und-ersetzen-in-dateien",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Perl Einzeiler: Suchen und Ersetzen in Dateien",
+                      "route": "/julian/techzap/programmierung/perl/perl-einzeiler-suchen-und-ersetzen-in-dateien",
+                      "rel": "julian/techzap/programmierung/perl/perl-einzeiler-suchen-und-ersetzen-in-dateien.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            },
+            {
+              "type": "dir",
+              "name": "server",
+              "slug": "server",
+              "title": "Server",
+              "route": "/julian/techzap/server",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "unix-linux",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Unix/Linux",
+                  "route": "/julian/techzap/server/unix-linux",
+                  "rel": "julian/techzap/server/unix-linux.md"
+                },
+                {
+                  "type": "file",
+                  "name": "windows",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Windows",
+                  "route": "/julian/techzap/server/windows",
+                  "rel": "julian/techzap/server/windows.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "unix-linux",
+                  "slug": "unix-linux",
+                  "title": "Unix Linux",
+                  "route": "/julian/techzap/server/unix-linux",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "grep-in-zwei-dateien-vorkommende-zeilen-entfernen",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Mit grep Zeilen entfernen, die in zwei Dateien doppelt vorkommen",
+                      "route": "/julian/techzap/server/unix-linux/grep-in-zwei-dateien-vorkommende-zeilen-entfernen",
+                      "rel": "julian/techzap/server/unix-linux/grep-in-zwei-dateien-vorkommende-zeilen-entfernen.md"
+                    }
+                  ],
+                  "dirs": []
+                },
+                {
+                  "type": "dir",
+                  "name": "windows",
+                  "slug": "windows",
+                  "title": "Windows",
+                  "route": "/julian/techzap/server/windows",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "iis-und-apache-auf-einem-server-parallel-betreiben",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - IIS und Apache auf einem Server parallel betreiben",
+                      "route": "/julian/techzap/server/windows/iis-und-apache-auf-einem-server-parallel-betreiben",
+                      "rel": "julian/techzap/server/windows/iis-und-apache-auf-einem-server-parallel-betreiben.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "listenonlylist-registry-werte-iis-an-ip-binden",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - ListenOnlyList Registry Werte - IIS an IP binden",
+                      "route": "/julian/techzap/server/windows/listenonlylist-registry-werte-iis-an-ip-binden",
+                      "rel": "julian/techzap/server/windows/listenonlylist-registry-werte-iis-an-ip-binden.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            },
+            {
+              "type": "dir",
+              "name": "technik",
+              "slug": "technik",
+              "title": "Technik",
+              "route": "/julian/techzap/technik",
+              "index": null,
+              "files": [
+                {
+                  "type": "file",
+                  "name": "vmware",
+                  "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - VMware",
+                  "route": "/julian/techzap/technik/vmware",
+                  "rel": "julian/techzap/technik/vmware.md"
+                }
+              ],
+              "dirs": [
+                {
+                  "type": "dir",
+                  "name": "vmware",
+                  "slug": "vmware",
+                  "title": "Vmware",
+                  "route": "/julian/techzap/technik/vmware",
+                  "index": null,
+                  "files": [
+                    {
+                      "type": "file",
+                      "name": "strg-alt-f1-bzw-ctrl-alt-f1-an-vmware-senden",
+                      "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Strg+Alt+F1 bzw Ctrl+Alt+F1 an VMware senden",
+                      "route": "/julian/techzap/technik/vmware/strg-alt-f1-bzw-ctrl-alt-f1-an-vmware-senden",
+                      "rel": "julian/techzap/technik/vmware/strg-alt-f1-bzw-ctrl-alt-f1-an-vmware-senden.md"
+                    }
+                  ],
+                  "dirs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "dir",
+          "name": "work",
+          "slug": "work",
+          "title": "Work",
+          "route": "/julian/work",
+          "index": null,
+          "files": [
+            {
+              "type": "file",
+              "name": "projects",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Projects",
+              "route": "/julian/work/projects",
+              "rel": "julian/work/projects.md"
+            },
+            {
+              "type": "file",
+              "name": "selfmade",
+              "title": "ZEILER .me - IT & Medien, Geschichte, Deutsch - Selfmade",
+              "route": "/julian/work/selfmade",
+              "rel": "julian/work/selfmade.md"
+            }
+          ],
+          "dirs": []
+        }
+      ]
+    }
+  ]
+}

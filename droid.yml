@@ -1,0 +1,36 @@
+version: "1"
+
+vars:
+  INPUT_DIR: "www.zeiler.me"
+  OUT_DIR: "out"
+  MIN_CHARS: "200"
+  SCRIPT: "extract-md.mjs"
+  BASE_URL: "https://www.zeiler.me/"
+
+tasks:
+  setup:
+    desc: Initialize npm & install deps
+    run: >
+      npm init -y &&
+      npm i @mozilla/readability jsdom turndown &&
+      npm pkg set type=module
+
+  extract:all:
+    desc: Convert all HTML in ${INPUT_DIR} → Markdown in ${OUT_DIR}
+    run: >
+      node ${SCRIPT} "${INPUT_DIR}" -o "${OUT_DIR}" --min-chars ${MIN_CHARS} --base-url "${BASE_URL}" &&
+      node generate-menu.mjs
+
+  extract:one:
+    desc: Convert a single HTML file to Markdown
+    env:
+      FILE: "www.zeiler.me/julian.html"
+    run: >
+      node ${SCRIPT} "${FILE}" -o "${OUT_DIR}" --min-chars ${MIN_CHARS} --base-url "${BASE_URL}"
+
+  extract:stdout:
+    desc: Preview Markdown in terminal
+    env:
+      FILE: "www.zeiler.me/julian.html"
+    run: >
+      node ${SCRIPT} "${FILE}" --stdout --min-chars ${MIN_CHARS} --base-url "${BASE_URL}"

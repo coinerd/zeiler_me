@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>ZEILER .me - Navigation Menu</title>
+<link href="/styles.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+</head>
+<body>
+<header>
+<div class="header-container">
+<h1>ZEILER .me - IT &amp; Medien, Geschichte, Deutsch</h1>
+<button aria-label="Toggle menu" class="mobile-menu-toggle">
+<i aria-hidden="true" class="fas fa-bars"></i>
+</button>
+</div>
+</header>
+<nav aria-label="Hauptnavigation" class="main-nav" id="mainNav" role="navigation">
+<div class="nav-container">
+<ul class="nav-top" role="menubar"></ul>
+</div>
+</nav>
+<div class="breadcrumbs" aria-label="Brotkrumen" role="navigation">
+  <div class="breadcrumbs-container">
+    <ol class="breadcrumbs-list">
+      <!-- Populated dynamically -->
+    </ol>
+  </div>
+</div>
+<section class="main-content">
+  <div class="container">
+    <article id="content-root"></article>
+  </div>
+</section>
+<script type="module" src="/js/menu-loader.js"></script>
+<script src="/script.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify/dist/purify.min.js" defer></script>
+<script type="module" src="/js/md-runtime.js"></script>
+</body>
+</html>
