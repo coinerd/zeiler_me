@@ -1,0 +1,3 @@
+# ZEILER .me - IT & Medien, Geschichte, Deutsch - Kultur / Religion
+
+Heimat ergibt sich nicht allein aus dem Bezug der Menschen zu der sie umgebenden Landschaft. Auch die Kultur, in deren Zentrum früher meist die Religion gestanden hat, prägt die Menschen einer Region. Der zweite Teil unseres Projektes handelt deshalb davon, wie die Menschen hier kulturell und religiös geprägt wurden. Da wir uns auf wenige Epochen beschränken müssen, haben wir uns auf Zeiten des Umbruchs konzentriert, Zeiten, in denen alte Vertrautheiten in Frage gestellt wurden und neue Verhältnisse sich abzeichneten...

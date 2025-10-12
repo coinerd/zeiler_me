@@ -1,0 +1,37 @@
+# ZEILER .me - IT & Medien, Geschichte, Deutsch - Spielball fremder Interessen
+
+Die Entwicklung der jüdischen Gemeinde wurde 1348/49 zur Zeit des "Schwarzen Todes" jäh unterbrochen, als sich der Volkszorn gegen die "jüdischen Brunnenvergifter" richtete, und die Juden teils erschlagen, teils vertrieben wurden. Das Eigentum der 1348 getöteten Heidelberger Juden wurde beschlagnahmt und von Ruprecht I. 1358 seinem Vasallen Engelbert von Hirschhorn übergeben.
+
+Dennoch blieb Pfalzgraf Ruprecht I. weiterhin seiner Politik treu, indem er den Juden, die den Pogromen von Speyer (25.1.1349) und Worms (1.3.1349) entkommen konnten, gegen hohes Entgelt Zuflucht in Heidelberg gewährte. Der Schutz der Heidelberger Juden, der dem Pfalzgrafen 100 Gulden jährlich einbrachte, wurde ausdrücklich in die Heidelberger Stadtordnung von 1357 aufgenommen: "Alle inwohner, so zu Heidelberg wohnen, es seind Christen, pfaffen, laien oder Juden, zu schützen oder schirmen." Die Juden konnten Häuser, Weingärten und Gärten erwerben und es zu ansehnlichen Stellungen bringen: ein Jude wurde Arzt am Hofe des Pfalzgrafen, ein anderer Steuererheber. Neben den hohen regelmäßigen
+
+Judensteuern, die der Pfalzgraf als Schutzgelder einnahm, halfen ihm seine Juden immer wieder mit Darlehen, die er zur Vergrößerung des pfälzischen Territoriums in Anspruch nahm. (3) Der Schutz der Juden bezog sich sogar auf aussätzige ("feltsieche") Juden, die allerdings nicht in der Stadt selbst, sondern nur in dem älteren Leprosenspital vor der östlichen Stadtmauer ihr Wohnrecht hatten.
+
+Der Anstieg der jüdischen Einwohnerzahl in und um Heidelberg machte es erforderlich, eine eigene jüdische Gerichtsbarkeit mit Strafbefugnis einzusetzen. Daher erteilte Pfalzgraf Ruprecht I. 1366 dem Hochmeister Lebelang von Weinheim, sowie Gotlieb, Moyse Nürnberg und Symelin von Heidelberg die Vollmacht, diejenigen Juden diesseits des Rheins, die "Unbescheidenheit" treiben, zu strafen. (4)
+
+Nach der Gründung der Universität 1386 drehte sich der Wind. Zunächst konnte Ruprecht I. seine Juden noch schützen, indem er den Studenten Ausschreitungen gegen die Juden verbot. Ganz anders erging es den Heidelberger Juden dann unter Ruprecht I. Neffen und Nachfolger Ruprecht II. (1390-1398), der sich den Beinamen "der Harte" verdiente. (5) Kaum ein Jahr im Amt verjagte er sämtliche Juden aus der Kurpfalz und schenkte 1391 alle Häuser der Heidelberger Juden samt dem Friedhof der Universität. Die Synagoge, die in der Schenkungsurkunde als Judenschule bezeichnet wird, wurde zu Weihnachten 1391 von Wormser Bischof feierlich zur Marienkapelle geweiht. In den anderen Häusern der Judengasse wurden Hörsäle der juristischen und medizinischen Fakultät eingerichtet. Die Bücher der Juden, darunter viele seltene und wertvolle Manuskripte, erhielt ebenfalls die Universität, die sie mit Ausnahme eines Talmud­exemplars, das nach dem Dreißigjährigen Krieg in die Vatikanische Bibliothek gelangte, verkaufte. Auch die Erinnerung an die Juden wollte man auslöschen, in dem man die Judengasse für kurze Zeit in St. Stephansgasse umbenannte, weil dieser Heilige von Juden gesteinigt worden war.
+
+Nach der zweiten Judenvertreibung von 1391 durch Ruprecht II, galt für alle folgenden Pfalzgrafen der in einer Urkunde von 1401 niedergeschriebene Grundsatz, "dass ewiclich kein Jude oder judynne in slossern und lande der pfaltz und herzogtums obgenant wonen, sesshaftig oder blibehafftig sin sol." (6) Dennoch wurden immer wieder bei einzelnen Juden befristete Ausnahmen gemacht. 1526 wurde dem Juden Abraham von Thürn gestattet, "ein Wochen oder drey" in Heidelberg zu wohnen; 1528 nimmt Pfalzgraf Ludwig den Juden Mose aus Schlesien für 2 Jahre in Heidelberg auf und erhält im Gegenzug einen Jahreszins von 27 Gulden. Zu diesen einträglichen Bedingungen wird der Vertrag 1530 um 3 Jahre verlängert. Im Verzeichnis der pfälzischen Juden von 1548 wird kein Heidelberger Einwohner genannt, dafür sind es 1550 drei, darunter einer namens Lazarus. Einzelne Juden ließen sich taufen, um an der Heidelberger Universität lehren zu können. 1551 lehrte Paul Staffelstein (als Jude Nathan Aron) Hebräisch. 1561 lehrte der Calvinist Immanuel Tremellius in Heidelberg Theologie und Hebräisch und bekleidete 1562 und 1575 das Amt des Rektors der Universität. Auch die berühmte Olympia Fulvia Morata, die 1554 als Professorin für griechische Sprache an die Universität Heidelberg berufen worden war, soll ursprünglich Jüdin gewesen sein. (7) Im Jahre 1660 lebten 5 jüdische Familien in Heidelberg, die alle Oppenheim hießen.
+
+Bei der Zerstörung der Pfalz 1689 fanden 167 Juden (35 Familien) aus benachbarten Orten Zuflucht in Heidelberg, die sich für das Aufenthaltsrecht an den Einquartierungskosten für pfälzische Soldaten beteiligen mussten. Beim Brand Heidelbergs 1693 bezahlte ein Jude in der Judengasse eine hohe Kontribution, damit diese Häuser nicht angezündet werden sollten. Leider fingen sie durch die übergreifenden Brände in anderen Gassen trotzdem Feuer. Sofort nach der Zerstörung der Stadt versuchten die Heidelberger das Privileg zu erhalten, dass künftig kein Jude mehr in der Stadt geduldet werden sollte. (8) Der Schutzbrief von 1698 begrenzte die Zahl der jüdischen Familien auf drei mit Wohnsitz in der Judengasse. Auf die Proteste der Juden hin änderte der Kurfürst 1699 die Bestimmungen: die Juden mussten nicht im Ghetto leben, 5 Familien wurden aufgenommen und die Juden wurden in geschäftlicher Hinsicht den übrigen Bürgern gleichgestellt, was bei diesen Erbitterung und heftige Opposition hervorrief. (9) In der Folgezeit wurde der Handel der Juden, vor allem durch Interventionen der Heidelberger Krämerzunft, stark eingeschränkt. Sie durften keine Waren mehr auf öffentlichen Jahrmärkten feilbieten und keine offenen Läden mehr haben. Den Juden blieb schließlich nur noch der Trödelhandel mit alten Sachen und der Wucher als Einkommensquelle. (10) Da die jüdischen Händler bis auf wenige Ausnahmen nicht mehr in Heidelberg wohnen durften, aber auch nicht jeden Tag in ihre Wohnorte wie Neidenstein oder Waibstadt zurückfahren konnten, mussten sie irgendwo übernachten. In Heidelberger Gaststätten war es ihnen nicht erlaubt, darum hatten sie vermutlich im Wald eine Hütte. Vielleicht kommt daher die Bezeichnung eines Walddistrikts oberhalb des Philosophenwegs als "Judenhütte".
+
+In Heidelberg wurde übrigens auch der berühmte "Jud Süß" (Joseph Süß Oppenheimer 1692-1738) geboren, der dem Württemberger Herzog Karl Alexander, der ihn zum Geheimen Finanz- und Staatsrat ernannt hatte, durch Münzmanipulationen und Verkauf von Ämtern, Titeln und Privilegien stets neue Geldquellen erschloss. Die Beamtenschaft und die Landstände zwangen dem Herzog vor seinem Tod einen Haftbefehl gegen "Jud Süß" ab, der schließlich zum Tode durch den Strang verurteilt wurde. Aus diesem Stoff wurde der bekannteste antijüdische Propagandafilm des Nationalsozialismus "Jud Süß" gedreht.
+
+1) L. Löwenstein, Geschichte der Juden in der Kurpfalz, S. VI
+
+2) Chasia Turtel, Geschichte der jüdischen Gemeinde in Heidelberg, S. 1
+
+3) Löwenstein, S. 13
+
+4) Löwenstein, S. 10
+
+5) Löwenstein S. 16
+
+6) zit. nach Löwenstein, S. 19
+
+7) Löwenstein, S. 50-51
+
+8) H. Derwein, Die Flurnamen von Heidelberg, S. 74
+
+9) F. Hundsnurscher/G. Taddey, Die jüdischen Gemeinden in Baden, S. 123
+
+10) Ch. Turtel, Geschichte der jüd. Gemeinde in Heidelberg, S. 4

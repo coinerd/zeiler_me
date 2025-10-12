@@ -1,0 +1,3 @@
+# ZEILER .me - IT & Medien, Geschichte, Deutsch - Dr. Jochen Goetze
+
+Geb. 1937. Studium der Geschichte, Kunstgeschichte und Rechtswissenschaft in Hamburg und Heidelberg. 1964 Promotion. Dozent am Historischen Seminar der Universität Heidelberg. Veröffentlichungen zur Geschichte der Hanse und Skandinaviens und zu den Historischen Hilfswissenschaften. Monographien zum Heidelberger Schloß, zu den Burgen im Neckartal und in der linksrheinischen Pfalz. Beschäftigung mit der Geschichte der Stadt Heidelberg. Mitarbeit an mehreren stadtgeschichtlichen Schulfilmprojekten und deren Dokumentation durch die Gruppe "MOPÄD". In Vorbereitung: Eine Geschichte der Stadt Heidelberg bis zum Ende der Kurpfalz.
