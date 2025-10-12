@@ -1,0 +1,7 @@
+# ZEILER .me - IT & Medien, Geschichte, Deutsch - Erlebnis- und Handlungsorientierung als Prinzipien
+
+Medienerziehung soll für Kinder und Jugendliche Erlebnis- und Handlungsmöglichkeiten schaffen. In diesem Sinne sind Erlebnis- und Handlungsorientierung als übergreifende Gestaltungsprinzipien der Medienerziehung anzusehen. Erlebnisorientierung bedeutet, daß durch Medienerziehung auch Sinne und Gefühle angesprochen werden; Handlungsorientierung verweist darauf, daß Medienerziehung auf gegenwärtiges und zukünftiges Handeln gerichtet ist, z.B. in Form von aktiven Eingriffen in überschaubare Problemlösungen, in Entscheidungs-, Beurteilungs- und Gestaltungsprozesse. Insbesondere Video- und Computer (die zunehmend in einem technischen Medium zusammenwachsen), bieten Möglichkeiten, Gestaltungsprozesse nicht nur medial darzustellen, sondern auch aktiv zu unterstützen. Hierbei werden kommunikative Prozesse zwischen Schülern einer Schule genauso zu beachten sein wie solche zwischen Schülern verschiedener Schulen. Überregionale und internationale Schulprojekte werden durch neue Medien erleichtert.
+
+Die Entwicklung von Erlebnis- und Handlungsorientierung ist mit folgenden pädagogischen Orientierungen verknüpft:
+
+Auf der Basis dieser Orientierungen geht es um die Anregung und Unterstützung der Kinder und Jugendlichen bei der Mediennutzung, bei der Verarbeitung von Medieneinflüssen, bei der Unterscheidung und Analyse von Medienaussagen sowie bei der Medienproduktion, die dem Ziel verpflichtet ist, eine eigenständige Mitgestaltung der Medienkultur zu ermöglichen.

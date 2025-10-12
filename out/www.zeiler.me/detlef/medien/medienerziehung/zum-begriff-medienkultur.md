@@ -1,0 +1,5 @@
+# ZEILER .me - IT & Medien, Geschichte, Deutsch - Zum Begriff Medienkultur
+
+Mehr denn je beeinflussen Medien heute unser Verständnis von Kultur. Kein fester Kanon von Kulturgütern gibt heute Orientierung, "Hochkultur" und "niedere" Kultur werden nicht mehr wertend gegenübergestellt. Statt dessen gibt es mehrere Kulturen nebeneinander, die sich überschneiden, vermischen und dauernd neu formen. Unser Verständnis von Kultur ist in Bewegung und kann nicht von oben dekretiert werden.
+
+Kultur wird stark von medialen Äußerungen geprägt - wie auch umgekehrt kulturell wirksame Initiativen rasch von den Medien aufgegriffen und verbreitet werden. Aus dieser Entwicklung kann sich Schule nicht heraushalten. Im Gegenteil: Sie muß aktiv in den Entwicklungsprozeß eingreifen. Ohne den nivellierenden Druck des kommerziellen Medienmarktes haben Lehrer und Schüler ein enormes Potential an kulturprägenden Äußerungsformen, die sowohl medial als auch nichtmedial sein können.
