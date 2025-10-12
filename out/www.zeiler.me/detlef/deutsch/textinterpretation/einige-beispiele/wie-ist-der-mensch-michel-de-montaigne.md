@@ -1,0 +1,9 @@
+# ZEILER .me - IT & Medien, Geschichte, Deutsch - Wie ist der Mensch?  (Michel de Montaigne)
+
+**Michel de Montaigne (1533-1592)**
+
+Wir loben ein Pferd wegen seiner Stärke und Behändigkeit, nicht wegen seines Sattelzeugs, einen Windhund wegen seiner Geschwindigkeit, nicht wegen seines Halsbandes, einen Falken wegen seiner Schwingen, nicht wegen seiner Leinen und Schellen. Warum beurteilen wir nicht ebenso einen Menschen nach dem, was sein eigen ist? Er hat ein großes Gesinde, einen schönen Palast, so viel Gel­tung, so viel Einkünfte: all das ist um ihn, nicht in ihm. Ihr kauft keine Katze im Sack. Wenn ihr um ein Pferd handelt, so nehmt ihr ihm sein Zeug ab, ihr beseht es nackt und unbedeckt.
+
+Warum wenn ihr einen Menschen beurteilt, beseht ihr ihn ganz eingehüllt und vermummt? Er weist uns nur die Stücke vor, die ihm nicht im Geringsten eigen sind, und verbirgt uns jene, nach denen allein man seinen wahren Preis bestim­men kann... Man muss ihn nach ihm selbst beurteilen, nicht nach seinem Auf­putz. Und, wie ein Alter sehr treffend sagt: Wisst ihr, warum ihr ihn für groß haltet? Ihr nehmt die Höhe seines Schuhwerks mit in Anschlag. Der Sockel gehört nicht mit zur Statue. Messt ihn ohne seine Stelzen; lege er seinen Reich­tum und seine Ehren ab, stelle er sich euch im Hemd vor. Ist sein Körper zu seinen Verrichtungen geschickt, gesund und frisch? Wie ist seine Seele be­schaffen? ist sie schön, tauglich und glücklich mit allem versehen, was ihr ziemt? ist sie reich an eigenen oder an fremdem Gute? kann ihr das Glück nichts anhaben?
+
+***Aufgabe:** Interpretieren Sie diesen Kurzessay aus dem 16. Jahrhundert!*
