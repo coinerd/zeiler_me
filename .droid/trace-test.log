@@ -1,0 +1,8 @@
+(node:26956) [DEP0170] DeprecationWarning: The URL api::section.section is invalid. Future versions of Node.js will throw an error.
+    at getHostname (node:url:521:17)
+    at Url.parse (node:url:389:14)
+    at Object.urlParse [as parse] (node:url:146:13)
+    at file:///C:/Users/julia/OneDrive/Dokumente/zeiler_me/test-url-parse.mjs:2:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:345:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:665:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)

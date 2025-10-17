@@ -1,0 +1,11 @@
+import Database from 'better-sqlite3';
+import path from 'path';
+
+const dbPath = path.join(process.cwd(), '.tmp', 'data.db');
+const db = new Database(dbPath, { readonly: true });
+const counts = {
+  pages: db.prepare('SELECT COUNT(*) as count FROM pages').get().count,
+  sections: db.prepare('SELECT COUNT(*) as count FROM sections').get().count,
+  authors: db.prepare('SELECT COUNT(*) as count FROM authors').get().count,
+};
+console.log(counts);

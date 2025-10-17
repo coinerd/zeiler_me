@@ -1,0 +1,50 @@
+
+> cms@0.1.0 develop
+> strapi develop
+
+- Cleaning dist dir C:/Users/julia/OneDrive/Dokumente/zeiler_me/cms/dist
+✔ Cleaning dist dir (18ms)
+- Loading Strapi
+- Building build context
+
+[INFO] Including the following ENV variables as part of the JS bundle:
+    - ADMIN_PATH
+    - STRAPI_ADMIN_BACKEND_URL
+    - STRAPI_TELEMETRY_DISABLED
+    - STRAPI_AI_URL
+    - STRAPI_ANALYTICS_URL
+✔ Building build context (113ms)
+- Creating admin
+✔ Creating admin (547ms)
+✔ Loading Strapi (3176ms)
+- Generating types
+✔ Generating types (848ms)
+- Compiling TS
+- Cleaning dist dir C:/Users/julia/OneDrive/Dokumente/zeiler_me/cms/dist
+✔ Cleaning dist dir (126ms)
+✔ Compiling TS (2855ms)
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Sun Oct 12 2025 20:12:16 GMT-0500 (Kolumbianisc… [90m│[39m
+[90m│[39m Launched in        [90m│[39m 6895 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 16724                                            [90m│[39m
+[90m│[39m Version            [90m│[39m 5.27.0 (node v22.20.0)                           [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m│[39m Database           [90m│[39m sqlite                                           [90m│[39m
+[90m│[39m Database name      [90m│[39m .tmp\data.db                                     [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+Welcome back!
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2025-10-12 20:12:16.081] [32minfo[39m: Strapi started successfully
+[2025-10-12 20:23:21.197] [32mhttp[39m: GET /api/sections (41 ms) 403
+[2025-10-12 20:25:25.727] [32mhttp[39m: GET /api/sections (26 ms) 403
+[2025-10-12 21:42:58.302] [32mhttp[39m: GET /api/sections (39 ms) 403
+[2025-10-12 21:44:17.127] [32mhttp[39m: GET /api/sections (14 ms) 403
